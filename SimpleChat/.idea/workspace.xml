@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="648efbb9-8294-44f0-901c-9b62f275aa92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../OCSF/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OCSF/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OCSF/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OCSF/bin/ocsf/client/AbstractClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OCSF/bin/ocsf/server/AbstractServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OCSF/bin/ocsf/server/AbstractServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OCSF/bin/ocsf/server/ConnectionToClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OCSF/src/ocsf/client/AbstractClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OCSF/src/ocsf/server/AbstractServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OCSF/src/ocsf/server/ConnectionToClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +26,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ClientConsole.executor": "Run",
-    "Application.EchoServer.executor": "Coverage",
+    "Application.EchoServer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -52,7 +37,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ClientConsole">
     <configuration name="ClientConsole" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="JavaSE-17" />
       <option name="MAIN_CLASS_NAME" value="edu.seg2105.client.ui.ClientConsole" />
@@ -67,6 +52,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EchoServer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.seg2105.edu.server.backend.EchoServer" />
+      <module name="SimpleChat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientConsole" />
+      <item itemvalue="Application.EchoServer" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
