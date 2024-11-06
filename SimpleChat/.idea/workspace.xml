@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="648efbb9-8294-44f0-901c-9b62f275aa92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../OCSF/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCSF/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCSF/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCSF/bin/ocsf/client/AbstractClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCSF/bin/ocsf/server/AbstractServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCSF/bin/ocsf/server/AbstractServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCSF/bin/ocsf/server/ConnectionToClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCSF/src/ocsf/client/AbstractClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCSF/src/ocsf/server/AbstractServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OCSF/src/ocsf/server/ConnectionToClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2oSQOWhepfiZwvgPn0D9Uxn0D4M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ClientConsole.executor": "Run",
+    "Application.EchoServer.executor": "Coverage",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/danie/files/repos/seg2105f24-assigment2-DanThePanMan/SimpleChat/.classpath",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ClientConsole" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="JavaSE-17" />
+      <option name="MAIN_CLASS_NAME" value="edu.seg2105.client.ui.ClientConsole" />
+      <module name="SimpleChat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.seg2105.client.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="648efbb9-8294-44f0-901c-9b62f275aa92" name="Changes" comment="" />
+      <created>1730860464695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730860464695</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SimpleChat$EchoServer.ic" NAME="EchoServer Coverage Results" MODIFIED="1730862853610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>edu.seg2105.client.ui.*</FILTER>
+    </SUITE>
+  </component>
+</project>
